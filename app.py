@@ -1,5 +1,5 @@
 print("Hello World")
 
-a = 100
+a = 1000
 
 b = 200
